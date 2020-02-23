@@ -1,0 +1,6 @@
+https://github.com/bamlab/generator-rn-toolbox/tree/master/generators/assets
+
+
+yo rn-toolbox:assets --icon logo.psd --store
+yo rn-toolbox:assets --splash splash.psd
+yo rn-toolbox:assets --android-notification-icon logo.psd
